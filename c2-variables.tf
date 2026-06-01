@@ -18,12 +18,3 @@ variable "ec2_instance_type" {
   type        = string
 }
 
-variable "AWS_ACCESS_KEY_ID" {
-  description = "EC2 Instance Type"
-  type = string
-}
-
-variable "AWS_SECRET_KEY_ID" {
-    description = "EC2 Instance Type"
-  type = string
-}
